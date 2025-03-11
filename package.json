@@ -1,5 +1,8 @@
 {
-  "scripts":{
+  "name": "hairday",
+  "description": "Aplicação Web para agendamento de corte de cabelo",
+  "author" : "Andre Babo"
+  "scripts": {
     "server": "json-server --watch server.json --port 3333"
   },
   "dependencies": {
