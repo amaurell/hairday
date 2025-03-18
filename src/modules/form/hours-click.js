@@ -1,15 +1,15 @@
 export function hoursClick() {
-  const hours = document.querySelectorAll(".hour-available");
+    const hours = document.querySelectorAll('.hour-available');
 
-  hours.forEach((available) => {
-    available.addEventListener("click", (selected) => {
-      //Removendo a classe hour-selected de toda as li não selecionadas
-      hours.forEach((hour) => {
-        hour.classList.remove("hour-selected");
-      });
+    hours.forEach((avaliable) => {
+        avaliable.addEventListener("click", (selected) =>{
 
-      //Adiciona a classe na li clicada
-      selected.target.classList.add("hour-selected");
-    });
-  });
+            //removendo a classe hour-selected de toda as li não selecionadas.
+            hours.forEach((hour) => {
+                hour.classList.remove('hour-selected')
+            })
+
+            selected.target.classList.add('hour-selected');
+        })
+    })
 }
