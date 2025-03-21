@@ -1,6 +1,6 @@
 # HairDay
 
-<img src="hairdayimg.jpg" alt="Image do Projeto" width="600"/>
+<img src="hairdayimg.jpg" alt="Image do Projeto" width="800"/>
 
 ## Descrição
 
