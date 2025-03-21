@@ -1,5 +1,7 @@
 # HairDay
 
+![Imagem do Projeto](hardayimg.jpg)
+
 ## Descrição
 
 HairDay é uma aplicação web moderna que conecta clientes com profissionais de beleza, facilitando a agendamento de serviços de cabelo, maquiagem e outros tratamentos de beleza.
